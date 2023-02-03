@@ -2,7 +2,7 @@
 
 Beginning
 Clone this repository on your local machine.
-git clone https://github.com/sedanurakcil/codeTalks.git
+git clone 
 
 Use
 To use it after cloning the project:
